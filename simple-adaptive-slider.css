@@ -1,7 +1,7 @@
 /* стили для корневого элемента слайдера */
 .itcss {
   position: relative;
-  max-width: 900px;
+  max-width: 100vw;
   margin-right: auto;
   margin-left: auto;
 }
